@@ -9,5 +9,6 @@ class CreateStudents < ActiveRecord::Migration[5.2]
     create_table :students |t|
       t.string :name
     end
+    end
   end
 end
