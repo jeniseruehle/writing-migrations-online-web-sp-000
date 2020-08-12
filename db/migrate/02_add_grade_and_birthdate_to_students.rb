@@ -1,4 +1,4 @@
-class 
+class AddGradeAndBirthdateToStudents
   
   def change
     create_table :students do |t|
